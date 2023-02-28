@@ -1,4 +1,4 @@
-load 'inp.rb'         
+load 'User.rb'         
 require_relative 'split'
 
 class Sales
